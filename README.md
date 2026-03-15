@@ -27,9 +27,4 @@ The program allows adding, removing, searching, displaying students, enrolling t
 * `Student.cpp` – class implementations
 * `UML_StudentSystem.png` – UML class diagram
 
-## Compile & Run
 
-```bash
-g++ main.cpp Student.cpp -o StudentSystem
-./StudentSystem
-```
